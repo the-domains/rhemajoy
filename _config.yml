@@ -1,0 +1,28 @@
+name: 'RhemaJoy '
+favicon: null
+layout_spectrum: 0.8166079835500568
+typography_spectrum: 0.9590194544289261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.30681729782372713
+  lightness: 0.5786003693938255
+  saturation: 0.8072124663740396
+  rhythmicContrast: 0.2219480494968593
+purpose: []
